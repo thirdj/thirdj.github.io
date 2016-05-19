@@ -305,7 +305,7 @@ footer {
   font-size: 13px;
   color: #aaa;
 	text-align: left;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  /*background: transparent url('../images/hr.png') 0 0 no-repeat;*/
 }
 
 footer a {

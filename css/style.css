@@ -2584,6 +2584,7 @@ ul.icons li [class^="icon-"],ul.icons li [class*=" icon-"]
 	.container
 	{
 		width: auto;
+		padding: 0 25px;
 	}
 
 	.row-fluid
@@ -2726,7 +2727,7 @@ body
 
 main.container,main.content>.container
 {
-	width: 50em;
+	__width: 50em;
 }
 
 @font-face

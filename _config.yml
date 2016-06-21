@@ -1,7 +1,40 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-auto: true # automatically update your jekyll
-server: true # runs a local server
-paginate: 10 # pagination basted on number of posts
-exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+# Basic
+name:               "Kiko"
 
+# URL
+baseurl:            "/Kiko"
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           rdiscount
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "//gfjaru.github.io/Kiko/about"
+  - name:           "Download"
+    href:           "//github.com/gfjaru/Kiko/releases"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"

@@ -3,10 +3,10 @@
 # # # # # # # #
 
 # Basic
-name:               "Thirdj"
+name:               "thirdj"
 
 # URL
-baseurl:            "./"
+baseurl:            "/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 

@@ -13,9 +13,11 @@ permalink:          /:year/:month/:day/:title.html
 # Navigation
 nav:
   - name:           "About"
-    href:           "/#"
-  - name:           "Download"
-    href:           "/#"
+    href:           "/about/"
+  - name:           "Twitter"
+    href:           "http://twitter.com/thirdjj"
+  - name:           "GitHub"
+    href:           "https://github.com/thirdj"
 
 # Sass
 sass:

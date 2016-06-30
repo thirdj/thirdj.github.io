@@ -2,6 +2,13 @@
 title: Generate GUID
 ---
 
+전역 고유 식별자(全域固有識別子, 영어: Globally Unique Identifier, GUID)는 응용 소프트웨어에서 사용되는 유사 난수이다.  
+GUID는 생성할 때 항상 유일한 값이 만들어진다는 보장은 없지만, 사용할 수 있는 모든 값의 수가 2128 = 3.4028×1038개로 매우 크기 때문에, 적절한 알고리즘이 있다면 같은 숫자를 두 번 생성할 가능성은 매우 적다.
+
+GUID는 오라클 데이터베이스 등 많은 곳에서 쓰이지만, 가장 눈에 띄는 구현은 아마도 마이크로소프트의 구현일 것이다. 표준으로는 오픈 소프트웨어 파운데이션(Open Software Foundation, OSF)이 지정한 범용 고유 식별자(Universally Unique Identifier, UUID)가 있다.
+
+Per [Wikipedia](https://ko.wikipedia.org/wiki/%EC%A0%84%EC%97%AD_%EA%B3%A0%EC%9C%A0_%EC%8B%9D%EB%B3%84%EC%9E%90)
+
 Example 1:
 {% highlight js %}
 // http://slavik.meltser.info/the-efficient-way-to-create-guid-uuid-in-javascript-with-explanation/  

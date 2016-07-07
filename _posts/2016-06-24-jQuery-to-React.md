@@ -1,5 +1,5 @@
 ---
-title: jQuery to React
+title: React
 ---
 
 ### The Sapzil Ditto Kim's Dev Log 에서 발췌
@@ -20,5 +20,8 @@ title: jQuery to React
 * [이해하다 5 - Server-side rendering](http://blog.coderifleman.com/post/123690802269/react-js-5)
 * [이해하다 6 - React.js의 테스트](http://blog.coderifleman.com/post/123792037004/react-js-6)
 * [이해하다 7 - React.js + CSS](http://blog.coderifleman.com/post/123886912084/react-js-7)
+
+### velopert React 강좌 목록 (계속 추가 됨.)
+* [강좌 목록](https://velopert.com/reactjs-tutorials)
 
 > 보고 보고 보고 보고 보고 보자.

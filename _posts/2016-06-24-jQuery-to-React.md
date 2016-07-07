@@ -13,12 +13,12 @@ title: jQuery to React
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 
 ### React를 이해하다 시리즈 codefire 에서 발췌
-* [이해하다 1](http://blog.coderifleman.com/post/122232296024/react-js-1)
-* [이해하다 2](http://blog.coderifleman.com/post/122310311704/react-js-2)
-* [이해하다 3](http://blog.coderifleman.com/post/122593166904/react-js-3)
-* [이해하다 4](http://blog.coderifleman.com/post/122771353444/react-js-4)
-* [이해하다 5](http://blog.coderifleman.com/post/123690802269/react-js-5)
-* [이해하다 6](http://blog.coderifleman.com/post/123792037004/react-js-6)
-* [이해하다 7](http://blog.coderifleman.com/post/123886912084/react-js-7)
+* [이해하다 1 - React.js 란?](http://blog.coderifleman.com/post/122232296024/react-js-1)
+* [이해하다 2 - React.js의 Prop](http://blog.coderifleman.com/post/122310311704/react-js-2)
+* [이해하다 3 - Component Lifecycle](http://blog.coderifleman.com/post/122593166904/react-js-3)
+* [이해하다 4 - React.js 가 Virtual DOM을 채택하고 있어 좋은 점](http://blog.coderifleman.com/post/122771353444/react-js-4)
+* [이해하다 5 - Server-side rendering](http://blog.coderifleman.com/post/123690802269/react-js-5)
+* [이해하다 6 - React.js의 테스트](http://blog.coderifleman.com/post/123792037004/react-js-6)
+* [이해하다 7 - React.js + CSS](http://blog.coderifleman.com/post/123886912084/react-js-7)
 
 > 보고 보고 보고 보고 보고 보자.

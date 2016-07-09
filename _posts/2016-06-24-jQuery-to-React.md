@@ -24,4 +24,15 @@ title: React
 ### velopert React 강좌 목록 (계속 추가 됨.)
 * [강좌 목록](https://velopert.com/reactjs-tutorials)
 
+### React Tutorials
+* [tutorialspoint](http://www.tutorialspoint.com/reactjs/)
+* [React Fundamentals](https://egghead.io/courses/react-fundamentals)
+
+### 카툰 안내서
+* [Redux](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
+* [Flux](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
+
+### Redux
+* [Redux 한글 소개](http://dobbit.github.io/redux)
+
 > 보고 보고 보고 보고 보고 보자.

@@ -20,6 +20,7 @@ title: IT Interview 후기
 #### 정보
 * [해외 유학생 해외사 입사 면접 준비 노하우](http://heejungryu.tistory.com/entry/%ED%95%B4%EC%99%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%ED%95%B4%EC%99%B8%EC%82%AC-%EC%9E%85%EC%82%AC-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EB%85%B8%ED%95%98%EC%9A%B0)
 * [8퍼센트 개발 면접문제를 풀어보자](https://brunch.co.kr/@sunghokimnxag/5)
+* [실리콘밸리 면접 정복하기](http://www.andrewahn.co/silicon-valley/job-interview-tips/)
 
 ---
 보는대로 추가 할 예정

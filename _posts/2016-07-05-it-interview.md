@@ -17,6 +17,8 @@ title: IT Interview 후기
 * [Facebook Software Engineer 면접2](http://heejungryu.tistory.com/entry/Facebook-Software-Engineer-interview-2)
 * [페이스북 면접은 어떻게 다를까?](http://catlog.kr/entry/how-facebook-interview-different)
 * [2015년 마소 여름 인턴 후기, 면접 후기](http://goo.gl/73OySt)
+* [호주 개발자 생활기 1편](http://www.popit.kr/developer-life-in-au-1/)
+* [호주 개발자 생활기 2편](http://www.popit.kr/developer-life-in-au-2/)
 
 #### 정보
 * [해외 유학생 해외사 입사 면접 준비 노하우](http://heejungryu.tistory.com/entry/%ED%95%B4%EC%99%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%ED%95%B4%EC%99%B8%EC%82%AC-%EC%9E%85%EC%82%AC-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EB%85%B8%ED%95%98%EC%9A%B0)

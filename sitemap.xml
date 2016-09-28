@@ -10,7 +10,7 @@ layout: null
       <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
       {% else %}
       <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-      {% elseif %}
+      {% endif %}
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
   </url>

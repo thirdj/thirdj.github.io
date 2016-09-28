@@ -37,3 +37,9 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+# Sitemap
+gems:               [jekyll-sitemap]
+
+# URL
+url:                http://thirdj.github.io

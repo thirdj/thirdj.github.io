@@ -8,7 +8,8 @@ name:               "thirdj"
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+#permalink:          /:year/:month/:day/:title.html
+permalink:          /:title
 
 # Navigation
 nav:
@@ -38,8 +39,5 @@ defaults:
     values:
       layout:       "post"
 
-# Sitemap
-gems:               [jekyll-sitemap]
-
 # URL
-url:                http://thirdj.github.io
+url:                "thirdj.github.io"

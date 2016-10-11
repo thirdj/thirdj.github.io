@@ -27,6 +27,9 @@ title: React
 ### React Tutorials
 * [tutorialspoint](http://www.tutorialspoint.com/reactjs/)
 * [React Fundamentals](https://egghead.io/courses/react-fundamentals)
+* [egghead React Fundamentals](https://egghead.io/lessons/react-react-fundamentals-development-environment-setup)
+* [scotch.io](https://scotch.io/tag/react)
+* [tutorialzine](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 
 ### 카툰 안내서
 * [Redux](http://bestalign.github.io/2015/10/26/cartoon-intro-to-redux/)
@@ -34,5 +37,9 @@ title: React
 
 ### Redux
 * [Redux 한글 소개](http://dobbit.github.io/redux)
+
+### 읽어보자
+* [React에 대한 여러가지 생각](https://goo.gl/5EJt6Z)
+* [React에 대한 여러가지 생각을 읽고](http://blog.coderifleman.com/2016/04/26/read-the-thinking-about-react/)
 
 > 보고 보고 보고 보고 보고 보자.

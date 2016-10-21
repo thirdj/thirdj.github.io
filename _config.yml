@@ -8,8 +8,8 @@ name:               "thirdj"
 # URL
 baseurl:            ""
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
-#permalink:          /:title
+#permalink:          /:year/:month/:day/:title.html
+permalink:          /:title
 
 # Navigation
 nav:

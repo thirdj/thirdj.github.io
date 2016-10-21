@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 <header class="masthead">
   <h1 class="masthead-title--small">
@@ -9,7 +9,7 @@ layout: default
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-date">
-    <time>{{ page.date | date: "%Y" }}</time>
+    <time>{{ page.date | date_to_long_string }}</time>
   </div>
   {{ content }}
 </div>

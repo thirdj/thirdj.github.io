@@ -10,5 +10,5 @@ title: npm global list 보기
 그래서 찾아보니 command 에서 볼 수 있는 방법이 있었다.
 
 ```powershell
-$ npm install -g --depth=0
+$ npm list -g --depth=0
 ```

@@ -41,7 +41,3 @@ defaults:
 
 # URL
 url:                "https://thirdj.github.io"
-
-paginate: 5
-
-pagenate_path: "/page:num/"

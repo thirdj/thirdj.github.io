@@ -9,5 +9,5 @@ title: Unable to create "index.lock" File exists
 무튼 해결은
 
 ```powershell
-$ rm -f ./git/index.lock
+$ rm -f .git/index.lock
 ```
